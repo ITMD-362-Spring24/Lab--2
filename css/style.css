@@ -30,7 +30,7 @@ body {
   margin-left: 25%;
   
 }
-legend {
+label {
   font-size: 30px;
   margin: 0 auto;
 }
@@ -39,7 +39,7 @@ legend {
 body {
   margin: 1%;
 }
-h1 {
+legend {
   margin:0;
 }
 #userinput {
