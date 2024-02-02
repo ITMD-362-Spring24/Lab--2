@@ -10,6 +10,7 @@
 body {
   font-family: 'Cute Font', sans-serif;
   margin: 5%;
+  font-size: 30px;
 }
 .bday {
   font-family: 'Cute Font', sans-serif;
@@ -24,4 +25,7 @@ body {
 }
 legend {
   font-size: 30px;
+}
+@media screen and (max-width:500px) {
+
 }
