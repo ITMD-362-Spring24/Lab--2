@@ -35,12 +35,18 @@ legend {
   margin: 0 auto;
 }
 
-@media screen and (max-width:510px) {
+@media screen and (max-width:620px) {
 body {
-  margin: 2%;
+  margin: 1%;
 }
-#button, #userinput {
-  width: 98%;
+h1 {
+  margin:0;
+}
+#userinput {
+  width: 90%;
+}
+.bday {
+  width: 28%;
 }
 
 }
