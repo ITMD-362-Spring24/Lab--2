@@ -1,6 +1,11 @@
 .userinput{
+  width: 95%;
   font-size: 15px;
+  font-family: verdana;
+  padding: 3px 5px;
+  border: 1px solid black;
   box-sizing: border-box;
-  
-  
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-bottom: 2%;
 }
