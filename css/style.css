@@ -1,6 +1,7 @@
 .userinput{
   width: 95%;
   font-size: 20px;
+  font-family: 'Cute Font', sans-serif;
   padding: 3px 5px;
   border: 1px solid black;
   box-sizing: border-box;
@@ -9,5 +10,5 @@
   margin-bottom: 5%;
 }
 body {
-  font-family: 'PT Serif', serif;
+  font-family: 'Cute Font', sans-serif;
   margin: 10%;
