@@ -6,6 +6,7 @@
   border-radius: 15px 50px;
   box-sizing: border-box;
   margin-bottom: 2%;
+  border: 1px solid black;
 }
 body {
   font-family: 'Cute Font', sans-serif;
@@ -28,6 +29,7 @@ body {
   font-size: 25px;
   margin-top: 2%;
   margin-left: 25%;
+  background-color: #1ecbe1;
   
 }
 label {
